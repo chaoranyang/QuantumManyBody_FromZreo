@@ -99,6 +99,7 @@ $$
   - 数据生成：调用 `bethe` 得到 $e$，计算化学势，构建绘图数据 `x` 和 `y`
   - 渐近线数据生成（标记为 `yinfy`, `ybb1`, `y0`, `yss1`）
   - 绘图：使用 `scienceplots` 包的 `science` 风格，输出对数坐标对比图
+- `BECandBethe_Note.ipynb`：关于玻色-爱因斯坦凝聚和Bethe 拟设的基础知识和详细推导
 - `README_md`：简要任务描述
 
 ---
