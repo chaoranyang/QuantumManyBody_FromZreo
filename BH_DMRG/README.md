@@ -192,6 +192,7 @@ $$
 - `energy_results_lobe1&2/KT.pkl` ：计算过程中保存的基态能量字典（自动生成）
 - `DMRG_BH_ycr_Plot.py` ：生成精美图像
 - `figure_result.png` ：输出的 Mott 叶瓣相图（高分辨率）
+- `tensor_basic_Note.ipynb` ：练习笔记，如何用numpy实现张量（高阶nd数组）的收缩、重塑等操作，这在张量网络算法中极其重要
 
 ---
 
