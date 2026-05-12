@@ -1,5 +1,5 @@
 # Bose-Hubbard 模型平均场自洽算法绘制定性相图
-![相图](figure_reslut.png)
+![相图](figure_result.png)
 
 本项目通过平均场自洽迭代求解 Bose-Hubbard 模型的超流序参量，遍历跳跃能 $J$ 与化学势 $\mu$ 的参数空间，基于序参量阈值绘制 Mott 绝缘体–超流相图，并分析固定化学势下的相变行为。
 
