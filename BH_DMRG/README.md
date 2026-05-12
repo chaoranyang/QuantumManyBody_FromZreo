@@ -1,5 +1,4 @@
-# 一维 Bose-Hubbard 模型 DMRG (vMPS) 相图计算 
-🌐[English Version](README_English.md)
+# 一维 Bose-Hubbard 模型 DMRG (vMPS) 相图计算 🌐[English Version](README_English.md)
 
 ![Mott叶瓣相图](figure_result.png)
 
