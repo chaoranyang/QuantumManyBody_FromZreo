@@ -89,8 +89,8 @@ Python 3.7 or higher is recommended.
 
 1. **Clone the repository** (or download the files):
    ```bash
-   git clone https://github.com/chaoranyang/QuantumManyBody_FromZreo.git
-   cd QuantumManyBody_FromZreo/kagomeFH_Grad
+   git clone https://github.com/chaoranyang/QuantumManyBody_FromZero.git
+   cd QuantumManyBody_FromZero/kagomeFH_Grad
 2. **Dependencies:**
     ```bash
     pip install numpy matplotlib
