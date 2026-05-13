@@ -215,8 +215,8 @@ Python 3.7 or higher is recommended.
 
 1. **Clone the repository** (or download the files):
    ```bash
-   git clone https://github.com/chaoranyang/QuantumManyBody_FromZreo.git
-   cd QuantumManyBody_FromZreo/BH_DMRG
+   git clone https://github.com/chaoranyang/QuantumManyBody_FromZero.git
+   cd QuantumManyBody_FromZero/BH_DMRG
 
 2. **Install dependencies:**
    ```bash
